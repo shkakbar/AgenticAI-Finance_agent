@@ -1,0 +1,38 @@
+# ============================================================================
+# Finance Agent Dependencies
+# ============================================================================
+
+# Core AI/ML
+ollama>=0.1.0
+
+#Financial Data
+yfinance>=0.2.31
+
+# Web Scraping & RSS
+feedparser>=6.0.10
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+#Environment Management
+python-dotenv>=1.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Vector Database (RAG)
+chromadb>=0.4.0
+
+# Language Detection
+langdetect>=1.0.9
+
+# Scheduling (for future automation)
+schedule>=1.2.0
+pytz>=2023.3
+
+# Template Engine (for reports)
+jinja2>=3.1.0
+
+# Web Dashboard
+streamlit>=1.28.0
+plotly>=5.18.0
